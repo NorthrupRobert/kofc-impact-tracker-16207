@@ -1,8 +1,7 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NorthrupRobert/kofc-impact-tracker-16207/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Fmain.ipynb)
-
 # Volunteer Performance and Fundraising Analysis
 ## *Knights of Columbus Council 16207 Semester Planning and Analysis*
 **Author** Robb Northrup
+
 **Date** Jan 23 - Present
 
 *Links*
@@ -34,6 +33,9 @@ This project analyzes event, attendance, and volunteer data from Knights of Colu
 5. Real‑world operational impact
 6. Leadership and systems thinking
 
+### Why it Matters
+Previous Colombian years showed that our council has a high drive for volunteering, but with low measurable impact. This project shows what avenues our council should target based on other organizational volunteering efforts and our own projects. This effort also serves as a sustainable system for future members to employ themselves.
+
 ---
 
 ## KEY FINDINGS
@@ -42,7 +44,7 @@ This project analyzes event, attendance, and volunteer data from Knights of Colu
 ---
 
 ## RECOMMENDED ACTIONS
-
+### Fundraising 
 
 ---
 
