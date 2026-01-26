@@ -73,7 +73,8 @@ As a consequence of this, it became clear to me at the beginning of the 2025-202
 ---
 
 ## THE DATA
-
+### Event Tracker
+For this project, I tracked our membership and events over the course of an entire collge semester of our work.
 
 ---
 
