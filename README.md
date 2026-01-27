@@ -1,12 +1,29 @@
 # Volunteer Performance and Fundraising Analysis
-## *Knights of Columbus Council 16207 Semester Planning and Analysis*
-**Author** Robb Northrup
+### *Knights of Columbus Council 16207 — Semester Planning & Impact Review*
+
+> **A data‑driven evaluation of volunteer engagement, event performance, and fundraising efficiency — built to guide smarter planning, stronger participation, and higher‑impact service.**
+
+---
+
+## PROJECT BADGES
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
+![Analytics: Python](https://img.shields.io/badge/Analytics-Python-blue)
+![Focus: Community Impact](https://img.shields.io/badge/Focus-Community%20Impact-gold)
+![Last Updated](https://img.shields.io/badge/Updated-Jan%202026-lightgrey)
+
+---
+
+## AUTHOR
+**Robb Northrup**
+Data Analytics | Aerospace | Community Impact
 
 **Date** Jan 23, 2026 - Present
 
-*Links*
+**Links**
  - [GitHub](https://www.github.com/NorthrupRobert/)
  - [LinkedIn](https://www.linkedin.com/in/robb-northrup-463867382)
+
+---
 
 ## TABLE OF CONTENTS
 - [Summary](#summary)
@@ -22,6 +39,7 @@
 - [Future_Work](#future-work)
 - [How_to_use_this_Project](#how-to-use-this-project)
 
+---
 
 ## SUMMARY
 This project analyzes event, attendance, and volunteer data from Knights of Columbus Council 16207 to identify which activities generate the highest engagement and which fundraising opportunities the council should prioritize. Using this analysis, I developed a data‑driven framework for setting goals, defining KPIs, and improving continuity in a high‑turnover college organization.
