@@ -7,7 +7,7 @@
 
 ## PROJECT BADGES
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
-![Analytics: Python](https://img.shields.io/badge/Analytics-Python-blue)
+![Analytics: Excel](https://img.shields.io/badge/Analytics-Python-green)
 ![Focus: Community Impact](https://img.shields.io/badge/Focus-Community%20Impact-gold)
 ![Last Updated](https://img.shields.io/badge/Updated-Jan%202026-lightgrey)
 
@@ -15,6 +15,7 @@
 
 ## AUTHOR
 **Robb Northrup**
+
 Data Analytics | Aerospace | Community Impact
 
 **Date** Jan 23, 2026 - Present
