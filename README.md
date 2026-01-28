@@ -121,13 +121,15 @@ Each of the four pillars of the Knights of Columbus (Charity, Unity, Fraternity,
 **Fraternity KPIs**
 1. Fraternal events per month
 2. Average attendance at fraternal events
-3. New member activation rate
-4. Member retention rate
 
 **Leadership KPIs**
 1. Leadership coverage (percentage of events with a designated organizer)
 2. Officer participation rate
 3. Number of members taking on leadership roles per semester
+
+**AMPM**
+3. New member activation rate
+4. Member retention rate
 
 ## BACKGROUND
 Since my membership began in The Knights of Columbus Council 16207, I've noticed a series of persistent challenges that have limited our growth, member retention, and measurable community impact. These issues include:
@@ -174,6 +176,24 @@ This script automatically parses each event’s participant list and generates a
 ### Analysis
 
 ### Dashboards
+#### AMPM
+bar graph of active members per month over last 
+
+distribution of active members per month (within the last 3 months, and another chart within the last 6 months, and another within the last year) of how much longer they have in the council (projected)
+
+members activated per month (when we see a new member show up to an event)
+
+distribution of how new members were activated based on event type
+
+member retention (how would i show this?)
+
+bar graph of # of events attended active members in the last 3 months
+
+a seperate list for all currently inactive members who are NOT alumni (they can still be reactivated)
+
+officer vs general member participation in the last 3 months
+
+
 
 ---
 
