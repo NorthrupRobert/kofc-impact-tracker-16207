@@ -1,5 +1,5 @@
 # Volunteer Performance and Fundraising Analysis
-### *Knights of Columbus Council 16207 — Semester Planning & Impact Review*
+### *Building a Data‑Driven Operating System for KofC Council 16207*
 
 > **A data‑driven evaluation of volunteer engagement, event performance, and fundraising efficiency — built to guide smarter planning, stronger participation, and higher‑impact service.**
 
@@ -7,7 +7,7 @@
 
 ## PROJECT BADGES
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
-![Analytics: Excel](https://img.shields.io/badge/Analytics-Python-green)
+![Analytics: Excel](https://img.shields.io/badge/Analytics-Excel-darkgreen)
 ![Focus: Community Impact](https://img.shields.io/badge/Focus-Community%20Impact-gold)
 ![Last Updated](https://img.shields.io/badge/Updated-Jan%202026-lightgrey)
 
@@ -64,7 +64,7 @@ Previous Colombian years showed that our council has a high drive for volunteeri
 ---
 
 ## RECOMMENDED ACTIONS
-### Fundraising 
+### 
 
 ---
 
@@ -78,10 +78,10 @@ Previous Colombian years showed that our council has a high drive for volunteeri
 This can be answered with the following three questions:
 1. What are we passionate about? **Serving those less fortunate**
     - Homeless ministry
-    - Serving our Newman Parish community (coffee+donutes, helping with events)
-    - 
+    - Serving our Newman Parish community (coffee+donuts, helping with events)
 2. What are we good at? ****
-    - Moving 
+    - Moving
+    - Planning and excecuting faith formation events
 3. Why do we perservere? **To protect life at all stages**
     - Since the founding of KofC in 1882, we have served as the social safety net of society
     - Life insurance
@@ -90,6 +90,13 @@ This can be answered with the following three questions:
     - Education for war veterans
     - Eliminating racial descrimination
     - Responding to natural and humanitarian disasters (e.g. Hurricane Katrina, wildfires, Ukranian War)
+
+### Council concerns about shortcomings
+1. Lack of focus
+    - Lots of different project underway that don't seem to connect under any one metric or banner that we can measure
+    - Undefined goals
+    - Individuals working solo or in small groups
+2. Lack of council continuity after this year
 
 ### Our North Star Metric: **Active Members per Month (AMPM)**
 Each of the four pillars of the Knights of Columbus (Charity, Unity, Fraternity, and Patriotism) is entirely dependent on the strength of the membership of us Knights. AMPM captures a council's ability to carry out the work by engaging members, deliver impactful charitable service, and sustain operations. Improving upon our AMPM will most directly result in council continuity, an increase in volunteer hours, attendance, leadership development, and a capacity for both charity and fraternity.
@@ -105,7 +112,6 @@ Each of the four pillars of the Knights of Columbus (Charity, Unity, Fraternity,
 **Faith Formation KPIs**
 1. Attendance at faith events
 2. Number of formation opportunities offered
-3. Member participation in sacraments/retreats
 
 **Fundraising KPIs**
 1. Net fundraising per semester
@@ -144,12 +150,30 @@ As a consequence of this, it became clear to me at the beginning of the 2025-202
 
 ## THE DATA
 ### Event Tracker
-For this project, I tracked our membership and events over the course of an entire collge semester of our work.
+This project primarily relies up on a google sheets spreadsheet (that I began at the beginning of the 2025-2026 Colombian year), where I began tracking our organization's events, active members, volunteer/fraternal hours acquired, the cost and return on events, and many more metrics to guage the effectiveness of our council. This workbook was made accessible to all council 16207 members so they can follow along with our progress. Write permissions, however, were only given to council officers to ensure the integrity of the data.
+
+This workbook is meant to act as the template for future members to utilize and evaluate their success as a council in a given Colombian year. To this end, Google sheets was utilized due to the following reasons:
+1. minimal technical skills required
+2. portable solution
+3. a familiar ecosystem for students
+These factors are all incredibly important, as to ensure the continuity of our council despite our high turnover rate. In short, utilizing google sheets helps minimize barrier-to-entry for future members.
 
 ---
 
 ## METHODOLOGY
+### Tracking Data
+Google forms for data-entry
 
+### Member-Level Analysis
+A core design principle of this oeprating system is to minimize friction for future officers. To keep data-entry as simple as possible for future members that utilize this operating system, a big effort was made to ensure that the majority of features were kept within the boundaries of the Google sheets ecosystem, as not to increase the barrier-to-entry on any of these technology adaptations. After all, adopting a new process or technology is never worthwhile should task effort ever outweigh operational efficiency.
+
+Because the Participating_Members field is stored as a comma‑separated list within a single cell on the Events sheet, transforming this data into a normalized, member‑level structure proved cumbersome and brittle when attempted purely with spreadsheet formulas. To preserve the simplicity of data entry for future officers while still enabling deeper analytics, a lightweight Google Apps Script was introduced.
+
+This script automatically parses each event’s participant list and generates a clean, row‑by‑row member‑level table in the Analysis (Auto) sheet. A trigger runs this process whenever the spreadsheet is updated, ensuring the analytics layer stays continuously in sync with the underlying event data. With this normalized structure in place, the system can reliably compute KPIs tied to our North Star metric—such as AMPM, retention, member activation, participation distribution, event impact, cohort analysis, and officer workload—without increasing the operational burden on council members.
+
+### Analysis
+
+### Dashboards
 
 ---
 
