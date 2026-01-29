@@ -32,13 +32,19 @@ function buildMemberLevelTable() {
   const output = [[
     "Event_ID",
     "Member",
-    "End_Date",
+    "Date",
     "Total_Event_Hours",
     "Event_Type",
-    "Program"
+    "Program",
+    "First_Event_Date",
+    "First_Event_Month",
+    "Activated"
   ]];
 
-  // Build rows
+  // Temporary storage for raw rows (before activation logic)
+  const rawRows = [];
+
+  // Pass 1: Build raw rows
   data.forEach(row => {
     const eventId = row[eventIdIndex];
     const membersRaw = row[membersIndex];
@@ -50,22 +56,50 @@ function buildMemberLevelTable() {
     const eventType = row[eventTypeIndex];
     const eventProgram = row[eventProgramIndex];
 
-    // Split members by comma, normalize spacing
     const members = membersRaw
       .split(",")
       .map(m => m.trim())
       .filter(m => m.length > 0);
 
     members.forEach(member => {
-      output.push([
+      rawRows.push({
         eventId,
         member,
         eventDate,
         eventHours,
         eventType,
         eventProgram
-      ]);
+      });
     });
+  });
+
+  // Pass 2: Compute earliest event per member
+  const earliest = {};
+
+  rawRows.forEach(r => {
+    if (!earliest[r.member] || r.eventDate < earliest[r.member]) {
+      earliest[r.member] = r.eventDate;
+    }
+  });
+
+  // Pass 3: Add activation metadata and push to output
+  rawRows.forEach(r => {
+    const firstDate = earliest[r.member];
+    const firstMonth = Utilities.formatDate(firstDate, Session.getScriptTimeZone(), "yyyy-MM");
+
+    const activated = (r.eventDate.getTime() === firstDate.getTime()) ? "TRUE" : "";
+
+    output.push([
+      r.eventId,
+      r.member,
+      r.eventDate,
+      r.eventHours,
+      r.eventType,
+      r.eventProgram,
+      firstDate,
+      firstMonth,
+      activated
+    ]);
   });
 
   // Write output
