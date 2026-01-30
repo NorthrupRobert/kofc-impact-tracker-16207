@@ -148,6 +148,8 @@ As a consequence of this, it became clear to me at the beginning of the 2025-202
 4. Semesterly and yearly reviews to evaluate our performance and adjust efforts accordingly
 5. An accessible, easy-to-use database solution for future members to access to ensure that future members do not repeat our mistake of being unfocused.
 
+More than that, one of the biggest issues was how demotivating recruiting and continuing with the council seemed to be when current members can't recall our accomplishments in the last year. Ultimately, I found (through my own experience in the gym, job-hunting, managing my finances, etc) data is empowering, encouraging, and strengthening. This is what my council needed.
+
 ---
 
 ## THE DATA
@@ -177,22 +179,55 @@ This script automatically parses each event’s participant list and generates a
 
 ### Dashboards
 #### AMPM
-bar graph of active members per month over last 
+Graphs: 
+1. bar graph of active members per month over last year or so, and have an 'average' line to guage performance at a glance (or should this be a moving average? what kind of average?)
+3. members activated per month (when we see a new member show up to an event)
+4. distribution of how new members were activated based on event type
+5. % of Members active in the last 90 days
+6. Histogram of members who attended 1 event, 2 events . . .
+7. pivot table of all currently inactive members who are NOT alumni (they can still be reactivated), organized by furtherest departure date to closest (We call this "Reactivation Targets"? Different name thats not so aggressive?)
+8. officer vs general member participation in the last 3 months
 
-distribution of active members per month (within the last 3 months, and another chart within the last 6 months, and another within the last year) of how much longer they have in the council (projected)
+#### Retention
+Initially I had thought to utilize both retention curves and cohort analysis to evaluate how different groups of new Knights respond to different programs we are a part of, how likely they are to stick with the council, etc.
 
-members activated per month (when we see a new member show up to an event)
+While retention curves are useful for uncovering these features in large organizations, I ultimately determined that this was incredibly overkill for the project I am pursuing. With a council size of only about 30 members at any given time, this was not an appropriate solution when
+1. our council has a high turnover rate
+2. Members typically only come it in cohorts of 1-3 individuals
+3. Most months we don't have any member activations at all
+4. We have a membership size small enough where you can name every other person
 
-distribution of how new members were activated based on event type
+Graphs:
+2. distribution of active members per month (within the last 3 months, and another chart within the last 6 months, and another within the last year) of how much longer they have in the council (projected)
+2. Time since last event histogram
 
-member retention (how would i show this?)
+#### Pillars
+Graphs:
+1. Events per pillar (charity, fraternal, faith, operations)
+2. Radar chart of Recent hours accumilated for each pillar
+3. Individuals serviced in the past year vs global average
+4. Stacked Bar: “Member Participation Profiles”
+You create categories like:
 
-bar graph of # of events attended active members in the last 3 months
+    Only Volunteer
 
-a seperate list for all currently inactive members who are NOT alumni (they can still be reactivated)
+    Only Fraternal
 
-officer vs general member participation in the last 3 months
+    Only Faith
 
+    Only Meetings
+
+    Volunteer + Fraternal
+
+    Volunteer + Faith
+
+    Fraternal + Faith
+
+    . . .
+
+    All 4 pillars
+
+Then chart the counts.
 
 
 ---
