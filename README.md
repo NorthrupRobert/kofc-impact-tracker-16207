@@ -51,16 +51,15 @@ This project analyzes event, attendance, and volunteer data from Knights of Colu
 1. Recruit more 3-4 year students
 2. Program more Community Ministry Events
 
-### Project Demonstrations
+---
+
+## Project Demonstrations
 1. Data cleaning and transformation
 2. Exploratory data analysis
 3. KPI development
 4. Insight‑driven recommendations
 5. Real‑world operational impact
 6. Leadership and systems thinking
-
-### Why it Matters
-Previous Colombian years showed that our council has a high drive for volunteering, but with low measurable impact. This project shows what avenues our council should target based on other organizational volunteering efforts and our own projects. This effort also serves as a sustainable system for future members to employ themselves.
 
 ---
 
