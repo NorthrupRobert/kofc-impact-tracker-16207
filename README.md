@@ -47,6 +47,8 @@ This project analyzes event, attendance, and volunteer data from Knights of Colu
 ### Problem Statement
 **Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
 
+### Key Findings
+
 ### Recommended Actions
 1. Recruit more 3-4 year students
 2. Program more Community Ministry Events
@@ -60,11 +62,6 @@ This project analyzes event, attendance, and volunteer data from Knights of Colu
 4. Insight‑driven recommendations
 5. Real‑world operational impact
 6. Leadership and systems thinking
-
----
-
-## KEY FINDINGS
-(High level results)
 
 ---
 
@@ -236,6 +233,10 @@ Then chart the counts.
 
 ## DETAILED RESULTS
 
+
+---
+
+## RECOMMENDED ACTIONS
 
 ---
 
