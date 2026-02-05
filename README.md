@@ -9,7 +9,7 @@
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Analytics: Excel](https://img.shields.io/badge/Analytics-Excel-darkgreen)
 ![Focus: Community Impact](https://img.shields.io/badge/Focus-Community%20Impact-gold)
-![Last Updated](https://img.shields.io/badge/Updated-Jan%202026-lightgrey)
+![Last Updated](https://img.shields.io/badge/Updated-Feb%202026-lightgrey)
 
 ---
 
@@ -27,10 +27,9 @@ Data Analytics | Aerospace | Community Impact
 ---
 
 ## TABLE OF CONTENTS
-- [Summary](#summary)
+- [Executive_Summary](#executive_summary)
 - [Key_Findings](#key-findings)
 - [Recommended_Actions](#recommended-actions)
-- [Problem_Statement](#problem-statement)
 - [Strategy](#strategy)
 - [Background](#background)
 - [Data](#the-data)
@@ -42,8 +41,15 @@ Data Analytics | Aerospace | Community Impact
 
 ---
 
-## SUMMARY
+## EXECUTIVE SUMMARY
 This project analyzes event, attendance, and volunteer data from Knights of Columbus Council 16207 to identify which activities generate the highest engagement and which fundraising opportunities the council should prioritize. Using this analysis, I developed a data‑driven framework for setting goals, defining KPIs, and improving continuity in a high‑turnover college organization.
+
+### Problem Statement
+**Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
+
+### Recommended Actions
+1. Recruit more 3-4 year students
+2. Program more Community Ministry Events
 
 ### Project Demonstrations
 1. Data cleaning and transformation
@@ -63,13 +69,24 @@ Previous Colombian years showed that our council has a high drive for volunteeri
 
 ---
 
-## RECOMMENDED ACTIONS
-### 
+## BACKGROUND
+Since my membership began in The Knights of Columbus Council 16207, I've noticed a series of persistent challenges that have limited our growth, member retention, and measurable community impact. These issues include:
+1. Low attendance at council events
+2. Largely inactive members
+3. Overemphasis on meetings, excemptifications, and other administrative activities (necessary, though not mission-driving)
+4. Highly motivated members pursue community impact projects individually rather than collabratively, resulting in an unfocused and inneffective council
+5. Difficuly with balancing one-on-one charitable outreach -an essential part of our Catholic mission- with the need to create broad, effective, measurable impact
 
----
+Many of these challenges are compounded by the realities of being a college council, unfortunately. A high turnover rate makes continuity difficult to maintain, develop long-term experience, and sustain a shared direction. Having a set of goals to achieve semester-by-semester could aleviate this issue by keeping our council focused.
 
-## PROBLEM STATEMENT
-**Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
+As a consequence of this, it became clear to me at the beginning of the 2025-2026 Colombian year that the following were necessary to resolve these issues:
+1. Systematic data tracking for membership, retention, events, funds raised, measured impact, and volunteer hours aqcuired
+2. SMART goals to better orient council members
+3. KPIs that align with SMART goals to have a strucutred evaluation of council performance
+4. Semesterly and yearly reviews to evaluate our performance and adjust efforts accordingly
+5. An accessible, easy-to-use database solution for future members to access to ensure that future members do not repeat our mistake of being unfocused.
+
+More than that, one of the biggest issues was how demotivating recruiting and continuing with the council seemed to be when current members can't recall our accomplishments in the last year. Ultimately, I found (through my own experience in the gym, job-hunting, managing my finances, etc) data is empowering, encouraging, and strengthening. This is what my council needed.
 
 ---
 
@@ -130,25 +147,6 @@ Each of the four pillars of the Knights of Columbus (Charity, Unity, Fraternity,
 **AMPM**
 3. New member activation rate
 4. Member retention rate
-
-## BACKGROUND
-Since my membership began in The Knights of Columbus Council 16207, I've noticed a series of persistent challenges that have limited our growth, member retention, and measurable community impact. These issues include:
-1. Low attendance at council events
-2. Largely inactive members
-3. Overemphasis on meetings, excemptifications, and other administrative activities (necessary, though not mission-driving)
-4. Highly motivated members pursue community impact projects individually rather than collabratively, resulting in an unfocused and inneffective council
-5. Difficuly with balancing one-on-one charitable outreach -an essential part of our Catholic mission- with the need to create broad, effective, measurable impact
-
-Many of these challenges are compounded by the realities of being a college council, unfortunately. A high turnover rate makes continuity difficult to maintain, develop long-term experience, and sustain a shared direction. Having a set of goals to achieve semester-by-semester could aleviate this issue by keeping our council focused.
-
-As a consequence of this, it became clear to me at the beginning of the 2025-2026 Colombian year that the following were necessary to resolve these issues:
-1. Systematic data tracking for membership, retention, events, funds raised, measured impact, and volunteer hours aqcuired
-2. SMART goals to better orient council members
-3. KPIs that align with SMART goals to have a strucutred evaluation of council performance
-4. Semesterly and yearly reviews to evaluate our performance and adjust efforts accordingly
-5. An accessible, easy-to-use database solution for future members to access to ensure that future members do not repeat our mistake of being unfocused.
-
-More than that, one of the biggest issues was how demotivating recruiting and continuing with the council seemed to be when current members can't recall our accomplishments in the last year. Ultimately, I found (through my own experience in the gym, job-hunting, managing my finances, etc) data is empowering, encouraging, and strengthening. This is what my council needed.
 
 ---
 
