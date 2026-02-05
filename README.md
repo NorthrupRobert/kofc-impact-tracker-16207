@@ -1,5 +1,5 @@
 # Volunteer Performance and Fundraising Analysis
-### *Building a Data‑Driven Operating System for KofC Council 16207*
+### *Building a Data‑Driven Operating System for Knights of Columbus (KofC) Council 16207*
 
 > **A data‑driven evaluation of volunteer engagement, event performance, and fundraising efficiency — built to guide smarter planning, stronger participation, and higher‑impact service.**
 
@@ -51,7 +51,7 @@ Data Analytics | Aerospace | Community Impact
 This project showcases the following skills in my toolkit:
 1. Data cleaning and transformation
 2. Exploratory data analysis
-3. KPI development
+3. KPI (Key Performance Indicator) development
 4. Insight‑driven recommendations
 5. Real‑world operational impact
 6. Leadership and systems thinking
@@ -82,6 +82,18 @@ As a consequence of this, it became clear to me at the beginning of the 2025-202
 5. An accessible, easy-to-use database solution for future members to access to ensure that future members do not repeat our mistake of being unfocused.
 
 More than that, one of the biggest issues was how demotivating recruiting and continuing with the council seemed to be when current members can't recall our accomplishments in the last year. Ultimately, I found (through my own experience in the gym, job-hunting, managing my finances, etc) data is empowering, encouraging, and strengthening. This is what my council needed.
+
+---
+
+## THE DATA
+### Event Tracker
+This project primarily relies up on a google sheets spreadsheet (that I began at the beginning of the 2025-2026 Colombian year), where I began tracking our organization's events, active members, volunteer/fraternal hours acquired, the cost and return on events, and many more metrics to guage the effectiveness of our council. This workbook was made accessible to all council 16207 members so they can follow along with our progress. Write permissions, however, were only given to council officers to ensure the integrity of the data.
+
+This workbook is meant to act as the template for future members to utilize and evaluate their success as a council in a given Colombian year. To this end, Google sheets was utilized due to the following reasons:
+1. minimal technical skills required
+2. portable solution
+3. a familiar ecosystem for students
+These factors are all incredibly important, as to ensure the continuity of our council despite our high turnover rate. In short, utilizing google sheets helps minimize barrier-to-entry for future members.
 
 ---
 
@@ -145,18 +157,6 @@ Each of the four pillars of the Knights of Columbus (Charity, Unity, Fraternity,
 
 ---
 
-## THE DATA
-### Event Tracker
-This project primarily relies up on a google sheets spreadsheet (that I began at the beginning of the 2025-2026 Colombian year), where I began tracking our organization's events, active members, volunteer/fraternal hours acquired, the cost and return on events, and many more metrics to guage the effectiveness of our council. This workbook was made accessible to all council 16207 members so they can follow along with our progress. Write permissions, however, were only given to council officers to ensure the integrity of the data.
-
-This workbook is meant to act as the template for future members to utilize and evaluate their success as a council in a given Colombian year. To this end, Google sheets was utilized due to the following reasons:
-1. minimal technical skills required
-2. portable solution
-3. a familiar ecosystem for students
-These factors are all incredibly important, as to ensure the continuity of our council despite our high turnover rate. In short, utilizing google sheets helps minimize barrier-to-entry for future members.
-
----
-
 ## METHODOLOGY
 ### Tracking Data
 Google forms for data-entry
@@ -171,7 +171,7 @@ This script automatically parses each event’s participant list and generates a
 ### Analysis
 
 ### Dashboards
-#### AMPM
+#### AMPM (Active Members per Month)
 Graphs: 
 1. bar graph of active members per month over last year or so, and have an 'average' line to guage performance at a glance (or should this be a moving average? what kind of average?)
 3. members activated per month (when we see a new member show up to an event)
