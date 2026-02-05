@@ -47,21 +47,20 @@ Data Analytics | Aerospace | Community Impact
 ### Problem Statement
 **Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
 
-### Key Findings
-
-### Recommended Actions
-1. Recruit more 3-4 year students
-2. Program more Community Ministry Events
-
----
-
-## Project Demonstrations
+### Project Demonstrations (rename?)
+This project showcases the following skills in my toolkit:
 1. Data cleaning and transformation
 2. Exploratory data analysis
 3. KPI development
 4. Insight‑driven recommendations
 5. Real‑world operational impact
 6. Leadership and systems thinking
+
+### Key Findings
+
+### Recommended Actions
+1. Recruit more 3-4 year students
+2. Program more Community Ministry Events
 
 ---
 
