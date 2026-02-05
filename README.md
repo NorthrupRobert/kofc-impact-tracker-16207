@@ -42,7 +42,7 @@ Data Analytics | Aerospace | Community Impact
 ---
 
 ## EXECUTIVE SUMMARY
-This project analyzes event, attendance, and volunteer data from Knights of Columbus Council 16207 to identify which activities generate the highest engagement and which fundraising opportunities the council should prioritize. Using this analysis, I developed a data‑driven framework for setting goals, defining KPIs, and improving continuity in a high‑turnover college organization.
+(MISSION OF THE KNIGHTS OF COLUMBUS)... (HELPS BY) ... This project analyzes event, attendance, and volunteer data from Knights of Columbus Council 16207 to identify which activities generate the highest engagement and which fundraising opportunities the council should prioritize. Using this analysis, I developed a data‑driven framework for setting goals, defining KPIs, and improving continuity in a high‑turnover college organization.
 
 ### Problem Statement
 **Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
