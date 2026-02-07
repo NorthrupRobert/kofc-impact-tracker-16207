@@ -191,8 +191,15 @@ While retention curves are useful for uncovering these features in large organiz
 4. We have a membership size small enough where you can name every other person
 
 Graphs:
-2. distribution of active members per month (within the last 3 months, and another chart within the last 6 months, and another within the last year) of how much longer they have in the council (projected)
-2. Time since last event histogram
+1. & distribution of active members per month (within the last 3 months, and another chart within the last 6 months, and another within the last year) of how much longer they have in the council (projected)
+2. & Time since last event histogram
+3. 30‑day retention (% active last 30 days, scorecard)
+4. 90‑day retention (% active last 90 days, scorecard)
+5. & Median days since last event (scorecard)
+6. & Table of inactive non‑alumni sorted by longest inactive
+7. Churn rate
+8. Reactivation rate
+    
 
 #### Pillars
 Graphs:
