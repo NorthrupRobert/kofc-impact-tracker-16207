@@ -42,7 +42,15 @@ Data Analytics | Aerospace | Community Impact
 ---
 
 ## EXECUTIVE SUMMARY
-(MISSION OF THE KNIGHTS OF COLUMBUS)... (HELPS BY) ... This project analyzes event, attendance, and volunteer data from Knights of Columbus Council 16207 to identify which activities generate the highest engagement and which fundraising opportunities the council should prioritize. Using this analysis, I developed a data‑driven framework for setting goals, defining KPIs, and improving continuity in a high‑turnover college organization.
+For over a century, the Knights of Columbus has been one of the world’s largest charitable service organizations—mobilizing millions of volunteer hours annually, distributing tens of millions of dollars in direct aid, and supporting communities through disaster relief, food security programs, refugee assistance, and local service initiatives. This global impact is powered not by large institutions, but by thousands of local councils whose effectiveness depends on how well they engage volunteers, allocate time, and prioritize high‑impact activities.
+
+This project applies that lens to Knights of Columbus Council 16207. By analyzing event participation patterns, volunteer hours, fundraising performance, and engagement distribution across the semester, the goal is to quantify which activities deliver the strongest charitable return per hour invested. The analysis identifies:
+- High‑engagement events that consistently attract volunteers
+- Fundraisers with the highest revenue‑per‑volunteer‑hour
+- Programs with declining participation that may require redesign or retirement
+- Operational bottlenecks caused by turnover, inconsistent planning, or unclear expectations
+
+Using these insights, I developed a data‑driven planning framework
 
 ### Problem Statement
 **Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
