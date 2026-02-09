@@ -50,7 +50,7 @@ This project applies that lens to Knights of Columbus Council 16207. By analyzin
 - Programs with declining participation that may require redesign or retirement
 - Operational bottlenecks caused by turnover, inconsistent planning, or unclear expectations
 
-Using these insights, I developed a data‑driven planning framework
+Using these insights, I developed a data‑driven planning framework for officers to use in the coming years.
 
 ### Problem Statement
 **Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
@@ -209,34 +209,12 @@ Graphs:
 8. Reactivation rate
     
 
-#### Pillars
+#### Program Mix
 Graphs:
 1. Events per pillar (charity, fraternal, faith, operations)
 2. Radar chart of Recent hours accumilated for each pillar
 3. Individuals serviced in the past year vs global average
 4. Stacked Bar: “Member Participation Profiles”
-You create categories like:
-
-    Only Volunteer
-
-    Only Fraternal
-
-    Only Faith
-
-    Only Meetings
-
-    Volunteer + Fraternal
-
-    Volunteer + Faith
-
-    Fraternal + Faith
-
-    . . .
-
-    All 4 pillars
-
-Then chart the counts.
-
 
 ---
 
@@ -246,7 +224,17 @@ Then chart the counts.
 ---
 
 ## DETAILED RESULTS
-
+1. Steady rise of 4 -> 9 AMPM (active members per month) from Oct 2024 to Jan 2026 (we are inching closer to our 10 AMPM goal!!)
+    - Steady rise in active members
+    - Sharp decline in active members from Jul 2025-Oct can be attributed to the summer break and most members living outside of the Reno metopolitan area.
+    - Shape decline in actives members around Dec-Jan due to winter break.
+2. Membership of council tends to fall into one of two camps: Incredibly Active (6+ events attended in the last 6 months) or dormant (0 events in the period)
+    - From Aug 2025 - Jan 2026, 11 members fail to attend any events and just as many Knights attend 6+. Only 8 members fall in between these categories (mostly toward the bottom tail).
+3. Member-activating events are primarily made up of chartiable works (Parish Ministry, "Moving Company", and Public Ministry), accounting for 52% of member-activating events.
+    - Retreats and parish ministry tied for the most member-activating events (at 6 activations each)
+4. 75% of active membership is concentrated in members that are projected within the next two years
+- 42% of active members have a tenure that will end within the year
+- 33% of active members have a tenure that will end between 1 and 2 years.
 
 ---
 
@@ -255,7 +243,6 @@ Then chart the counts.
 ---
 
 ## FUTURE WORK
-
 
 ---
 
