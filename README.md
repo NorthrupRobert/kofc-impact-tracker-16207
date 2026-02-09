@@ -224,21 +224,38 @@ Graphs:
 ---
 
 ## DETAILED RESULTS
-1. Steady rise of 4 -> 9 AMPM (active members per month) from Oct 2024 to Jan 2026 (we are inching closer to our 10 AMPM goal!!)
-    - Steady rise in active members
-    - Sharp decline in active members from Jul 2025-Oct can be attributed to the summer break and most members living outside of the Reno metopolitan area.
-    - Shape decline in actives members around Dec-Jan due to winter break.
-2. Membership of council tends to fall into one of two camps: Incredibly Active (6+ events attended in the last 6 months) or dormant (0 events in the period)
-    - From Aug 2025 - Jan 2026, 11 members fail to attend any events and just as many Knights attend 6+. Only 8 members fall in between these categories (mostly toward the bottom tail).
-3. Member-activating events are primarily made up of chartiable works (Parish Ministry, "Moving Company", and Public Ministry), accounting for 52% of member-activating events.
+*Analysis conducted Feb 8, 2026*
+1. **Membership Growth:** AMPM rose steadily from 4 -> 9 AMPM (active members per month) from Oct 2024-Jan 2026.
+    - Membership growth appears to be a consequence of increased council activity and not necessarily increased event attendance. Member attendance since data began being recorded appears to average 5 members over the entire period.
+    - Council is approaching its goal of 10 AMPM
+    - Sharp declines in active members from Jul-Oct, Dec-Jan 2025 is attributed to memberhsip residing outside of the Reno Metropolitain area during this time.
+2. **Engagement Distribution:** Participation is bimodal - 11 highly active members vs 11 dormant members, with few members between.
+    - 11 members attended 0 event and 11 members attended 6+. 8 members fall in between these categories, scewing towards inactive (Aug 2025 - Feb 2026)
+    - Members average 14 days since last event (median), implying that focusing on entirely inactive members have a greater effect on bulstering our AMPM as opposed to targeting semi-active members.
+3. **Member Motivations:** Member-activating events are primarily made up of chartiable works (Parish Ministry, "Moving Company", and Public Ministry), accounting for 52% of member-activating events.
     - Retreats and parish ministry tied for the most member-activating events (at 6 activations each)
-4. 75% of active membership is concentrated in members that are projected within the next two years
-- 42% of active members have a tenure that will end within the year
-- 33% of active members have a tenure that will end between 1 and 2 years.
+    - The most unique members for an event type were centered around charity events (15 members)
+    - 52% of all members activated were done so by charitable events (vs. 33% faith and 15% fraternity)
+4. **Council Continuity:** 75% of active membership is concentrated in members that are projected within the next two years
+    - 42% of active members have a tenure that will end within the year
+    - 33% of active members have a tenure that will end between 1 and 2 years.
+6. **Low Overhead:** Despite members' concerns that too much of our contributed effort goes towards overhead, ~92% of our accumilated hours were centered around service and faith development since the new Colombian Year began (new leadership).
+    - This may be a consequence of individuals having to track their hours in the first place and being motivated to contribute more time to these activities.
+7. despite members primarily being motivated by community events, we garnered more hours from faith development
+8. 
 
 ---
 
 ## RECOMMENDED ACTIONS
+*Analysis conducted Feb 8, 2026*
+1. **Expand on Service Programming**
+   - This aligns with member motivations
+   - Most members were activated through these events
+2. **Target Dormant Members**
+   - We have an excess of members who fall under the 3-4 year tenure categories (the most fragile bins) under these lists. Limited focus has been put on these members and encouraging them to be a part of the council.
+   - 4 members with a 3-4 expected tenure have yet to attend one event, and another 4 members are dormant
+   - targeting these members would not only ensure the continuity of our concil into the coming 2-3 years, but also give greater experience to the future leaders of our organization, and ensure the strength of our order longterm.
+3. **Continuity Planning:** Build a succession strategy to mitigate the projected 2-year membership cliff.
 
 ---
 
