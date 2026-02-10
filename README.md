@@ -20,9 +20,11 @@ Data Analytics | Aerospace | Community Impact
 
 **Date** Jan 23, 2026 - Present
 
-**Links**
- - [GitHub](https://www.github.com/NorthrupRobert/)
- - [LinkedIn](https://www.linkedin.com/in/robb-northrup-463867382)
+<p align="center">
+  <a href="https://linkedin.com/in/robb-northrup-463867382"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/NorthrupRobert"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:northruprobert@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
@@ -231,20 +233,24 @@ Graphs:
     - Sharp declines in active members from Jul-Oct, Dec-Jan 2025 is attributed to memberhsip residing outside of the Reno Metropolitain area during this time.
 2. **Engagement Distribution:** Participation is bimodal - 11 highly active members vs 10 dormant members, with few members between.
     - This distribution indicates that our council operations rely heavily on a small, core group. This makes continuity vulnerable.
+    - A bimodal distribution implies that engagement is polarized. This makes it difficult to both distribute workloads evenly and scale operations.
     - 10 members attended 0 events and 11 members attended 6+. 9 members fall in between these categories, scewing towards inactive (Aug 2025 - Feb 2026)
     - Members average 14 days since last event (median), implying that focusing on entirely inactive members have a greater effect on bulstering our AMPM as opposed to targeting semi-active members.
 3. **Council Continuity:** 75% of active membership is concentrated in members that are projected within the next two years
-    - If new members are not activated within the next few months, AMPM could drop to 2-3 members. This is not sustainable, and the council will be disbanded within the next year.
+    - If new members are not activated within the next few months, AMPM could drop to 2-3 members. This trajectory places the council at high risk of operational collapse within the next year.
     - 42% of active members have a tenure that will end within the year
     - 33% of active members have a tenure that will end between 1 and 2 years.
 6. **Low Overhead:** ~92% of our accumilated hours were centered around service and faith development since the new Colombian Year began (counciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
     - This may be a consequence of individuals having to track their hours in the first place and being motivated to contribute more time to these activities.
+    - One hypothesis is that hour tracking incentivized members to log more service time than before. Tracking hours increases the visibility of efforts, especially those that would typically go unnoticed.
     - Further data collection is needed to determine whether this pattern persists across future semesters.
 7. **Engagment Breadth:** Charity events are the council’s strongest lever for broad engagement and new member activation.
+    - Breadth is critical for activation, recruitment, and maintaining a high AMPM.
     - 18 different members attended charity events vs 11 for faith events
      - 52% of all members were activated by charitable events (vs. 33% faith and 15% fraternity)
     - Most unique members for an event type were centered around charity events (15 members)
 9. **Engagement Depth** Members have the deepest engagement with faith development events.
+   - Faith events deepen member commitment, while charity events broaden participation.
    - 72.6 average hours accumilated per faith event vs. (22.3 hours family, 14.5 hours life, 12.7 hours community, and 5.6 meeting)
    - 21 charity events vs 4 faith events
    - ~250 member hours accumilated for faith events vs ~230 hours for community events
@@ -253,14 +259,23 @@ Graphs:
 
 ## RECOMMENDED ACTIONS
 *Analysis conducted Feb 8, 2026*
-1. **Expand on Service Programming**
-   - This aligns with member motivations
-   - Most members were activated through these events
-2. **Target Dormant Members**
-   - We have an excess of members who fall under the 3-4 year tenure categories (the most fragile bins) under these lists. Limited focus has been put on these members and encouraging them to be a part of the council.
-   - 4 members with a 3-4 expected tenure have yet to attend one event, and another 4 members are dormant
-   - targeting these members would not only ensure the continuity of our concil into the coming 2-3 years, but also give greater experience to the future leaders of our organization, and ensure the strength of our order longterm.
+1. **Expand on Service Programming (Breadth Driver)**
+   - Service events accounted for the most member activations and attracted the most unique members. This is our event type to target for unnactivated and dormant members.
+   - Aim for 1-2 additional service opportunities per month to capitalize on high number of potential active-members.
+   - Target for a 10-15% increase in AMPM with new service events.
+2. **Target Dormant and Unnactivated Members**
+   - Only 25% of our council is comprised of members with a 3-4 year expected tenure. This is devastating for long-term council continuity.
+   - Aim to activate 1 dormant or unactivated member per month
+   - Incorporate a buddy system to pair every target member with our an active, core member.
+   - Inviting unactivated and dormant members to charity events first is the most direct means of engaging these members from the start.
+   - Targeting these members would not only ensure the continuity of our concil into the coming 2-3 years, but also give greater experience to the future leaders of our organization, and ensure the strength of our order longterm.
 3. **Continuity Planning:** Build a succession strategy to mitigate the projected 2-year membership cliff.
+   - Target innactive members (see above)
+   - Reintroduce the "Knights of the Round Table" training where new members and officers are properly onboarded on their duties and given a path to success in their role.
+5. **Programming for Breadth + Depth**
+   - Maintaining a 3:1 charity to faith event ratio to help foster council commitment to already active members.
+   - Utilize charity events to bring in new members and re-engage dormant ones.
+   - Target a 45% 30-day retention.
 
 ---
 
