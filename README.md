@@ -67,6 +67,10 @@ Using these insights, I developed a data‑driven planning framework for officer
 
 **LINKS TO DASHBOARDS**
 
+**LINK TO EXECUTIVE SUMMARY WORD DOC**
+
+**LINK TO POWERPOINT OUTLINE**
+
 ---
 
 ## BACKGROUND
