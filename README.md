@@ -19,12 +19,12 @@
 
 Data Analytics | Aerospace | Community Impact
 
-**Date** Jan 23, 2026 - Present
+**Date** Jan 23 - Feb 10, 2026
 
 <p align="center">
   <a href="https://linkedin.com/in/robb-northrup-463867382"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/NorthrupRobert"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:robbnorthrup@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=outlook"></a>
+  <a href="https://github.com/NorthrupRobert/portfolio"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:robbnorthrup@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
@@ -110,6 +110,8 @@ The workbook includes four core tables:
 2. **Master Roster:** roster, tenure, activation status
 3. **Officer Roster:** leadership roles and term dates
 4. **Member-Events:** member attendance and hours per event
+
+**Data Privacy:** All personally identifiable information (PII), including member names, addresses, email, etc. has been anonymized in accordance with ethical data‑handling practices.
 
 ### Why Normalization Was Needed
 Participation was originally stored as comma‑separated name lists, which prevented member‑level analysis. To calculate AMPM, activation, retention, and program‑mix metrics, the data had to be normalized into a member‑event bridge table.
