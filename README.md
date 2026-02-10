@@ -63,13 +63,16 @@ Using these insights, I developed a data‑driven planning framework for officer
 - Real‑world operational impact
 - Leadership and systems thinking
 
-**VISUALIZATIONS**
+[Engagement Dash](Dashboards/engagement_dash_oct2024-feb2026.png)
+[Retention Dash](Dashboards/retention_dash_feb2026.png)
+[Program Mix Dash 1](Dashboards/program_dash_1_jul2025-feb2026.png)
+[Program Mix Dash 2](Dashboards/program_dash_2_jul2025-feb2026.png)
 
-**LINKS TO DASHBOARDS**
+- Click here to access the [project dashboards and data](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing).
 
-**LINK TO EXECUTIVE SUMMARY WORD DOC**
+- Click here to access the [Performance Executive Summary](/Documentation/KofC16207_Executive_Summary.docx).
 
-**LINK TO POWERPOINT OUTLINE**
+- Click here to access the [Impact Analysis Slide Deck](/Documentation/KofC16207_Impact_Analysis_Presentation.pptx).
 
 ---
 
@@ -113,9 +116,7 @@ Because participant names were stored as comma‑separated lists, a Google Apps 
 - Generate a normalized member‑level table
 - Keep analytics synced with event data
 
-This enables accurate computation of KPIs such as AMPM, retention, activation, participation distribution, event impact, and officer workload.
-
-**DATA OVERVIEW AND CLEANING LINKS**
+[ERD](/assets/ERD.png)
 
 ---
 
