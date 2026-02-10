@@ -3,6 +3,10 @@ function buildMemberLevelTable() {
   const eventsSheet = ss.getSheetByName("Events");
   const outputSheet = ss.getSheetByName("Member Analysis (Auto)") || ss.insertSheet("Member Analysis (Auto)");
 
+const controlsSheet = ss.getSheetByName("Dashboard Controls");
+const cutoffDate = controlsSheet.getRange("C4").getValue(); // Start date or cutoff
+
+
   // Clear old output
   outputSheet.clearContents();
 
@@ -21,7 +25,7 @@ function buildMemberLevelTable() {
   const membersIndex = header.indexOf("Names_of_Participating_Members");
   const eventDateIndex = header.indexOf("End_Date");
   const eventHoursIndex = header.indexOf("Total_Event_Hours");
-  const eventTypeIndex = header.indexOf("Volunteer_(V)_Faternal_(Ft)_Faith_(Fi)_or_Meeting_(M)_Event");
+  const eventTypeIndex = header.indexOf("Community_(C)_Family_(Fy)_Faith_(Fi)_Life_(L)_or_Meeting_(M)_Event");
   const eventProgramIndex = header.indexOf("Program");
 
   if (eventIdIndex === -1 || membersIndex === -1) {
@@ -56,6 +60,9 @@ function buildMemberLevelTable() {
     const eventType = row[eventTypeIndex];
     const eventProgram = row[eventProgramIndex];
 
+    // Skip events that are on or after the cutoff
+    if (!eventDate || eventDate > cutoffDate) return;
+
     const members = membersRaw
       .split(",")
       .map(m => m.trim())
@@ -82,12 +89,14 @@ function buildMemberLevelTable() {
     }
   });
 
+  // 🔹 NEW: sort rawRows so latest events come first
+  rawRows.sort((a, b) => b.eventDate - a.eventDate); // descending by date
+
   // Pass 3: Add activation metadata and push to output
   rawRows.forEach(r => {
     const firstDate = earliest[r.member];
     const firstMonth = Utilities.formatDate(firstDate, Session.getScriptTimeZone(), "yyyy-MM");
-
-    const activated = (r.eventDate.getTime() === firstDate.getTime()) ? "TRUE" : "";
+    const activated = (r.eventDate.getTime() === firstDate.getTime()) ? "1" : "0";
 
     output.push([
       r.eventId,

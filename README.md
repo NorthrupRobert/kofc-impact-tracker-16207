@@ -45,6 +45,7 @@ For over a century, the Knights of Columbus has been one of the world’s larges
 ### Problem Statement
 **Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
 
+### Project Aim
 By analyzing event participation patterns, volunteer hours, fundraising performance, and engagement distribution across the semester, this project identifies which activities deliver the strongest charitable return per hour invested. The analysis highlights:
 1. High‑engagement events that consistently attract volunteers
 2. Programs with declining participation that may require redesign or retirement
@@ -54,27 +55,27 @@ Using these insights, I developed a data‑driven planning framework to guide fu
 
 ### Dashboards
 
-![Engagement Dash](Dashboards/engagement_dash_oct2024-feb2026.png)
-<p align="center">Figure 1. Longterm AMPM, engagement, and activity dashboard</p>
+![Engagement Dash](_Dashboards/engagement_dash_oct2024-feb2026.png)
+<p align="center" style="font-size: 0.85em">Figure 1. Longterm AMPM, engagement, and activity dashboard</p>
 
-![Retention Dash](Dashboards/retention_dash_feb2026.png)
-<p align="center">Figure 2. Council continuity and member retention dashboard</p>
+![Retention Dash](_Dashboards/retention_dash_feb2026.png)
+<p align="center" style="font-size: 0.85em">Figure 2. Council continuity and member retention dashboard</p>
 
-![Program Mix Dash](Dashboards/program_dash_jul2025-feb2026.png)
-<p align="center">Figure 3. Programming evaluation dashboard</p>
+![Program Mix Dash](_Dashboards/program_dash_jul2025-feb2026.png)
+<p align="center" style="font-size: 0.85em">Figure 3. Programming evaluation dashboard</p>
 
 <div style="font-size: 0.85em">
 
 ### Key Findings
-- AMPM rose steadily from **4 -> 9 AMPM** (active members per month) and approaching our goal of 10, from Oct 2024-Jan 2026.
-- Participation is bimodal - 11 highly active members vs 10 dormant members, with few members between.
+- AMPM rose steadily from **4 -> 9 AMPM** (active members per month) over period.
+- Participation is polarized - cohorts of highly active and dormant members.
 - **75%** of active membership is concentrated in members that are **projected to leave within the next two years**.
-- **~92% of our accumulated hours were centered around service and faith development** since the new Colombian Year began (coinciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
+- **~93% of hours accumilated were service or faith-based, with only ~7% considered overhead.**.
 - **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
 - Members have the **deepest engagement** with **faith** development events.
 
 **Resources**
-- Click here to access the [project dashboards and data](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing).
+- Click here to access the Dashboards and Project Data (as [Sheets Master Doc](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing) or [Local Excel Doc](KofC16207_Operations_Dashboard_Anonymized.xlsx)).
 - Click here to access the [Performance Executive Summary](/Documentation/KofC16207_Executive_Summary.docx).
 - Click here to access the [Impact Analysis Slide Deck](/Documentation/KofC16207_Impact_Analysis_Presentation.pptx).
 
@@ -101,25 +102,35 @@ Data empowers, encourages, and strengthens — and this project aims to bring th
 ---
 
 ## DATA STRUCTURE OVERVIEW
-- What data sources exist
-- Why normalization was needed
-- What the ERD represents
+This project is powered by a structured Google Sheets system that captures event‑level data, transforms it into member‑level analytics, and maintains accuracy through normalization and automation.
+
+### Data Sources
+The workbook includes four core tables:
+1. **Events:** dates, categories, hours, costs, returns
+2. **Master Roster:** roster, tenure, activation status
+3. **Officer Roster:** leadership roles and term dates
+4. **Member-Events:** member attendance and hours per event
+
+### Why Normalization Was Needed
+Participation was originally stored as comma‑separated name lists, which prevented member‑level analysis. To calculate AMPM, activation, retention, and program‑mix metrics, the data had to be normalized into a member‑event bridge table.
+**Transformation Process**
+A custom Google Apps Script automates:
+1. Parsing participant lists
+2. Matching names to member IDs
+3. Generating a clean participation table
+4. Syncing updates as new events are added
+
+### Data Model
+The ERD below shows how Events, Members, Officers, and Participation connect to support many‑to‑many relationships essential for engagement and continuity analysis.
 
 ![ERD](/assets/ERD.png)
-<p align="center">Figure 4. Entity‑relationship diagram illustrating the structure of the Events, Members, Officers, and Participation tables.</p>
+<p align="center" style="font-size: 0.85em">Figure 4. Entity‑relationship diagram illustrating the structure of the Events, Members, Officers, and Participation tables.</p>
 
-### Event Tracker
-This project relies on a Google Sheets workbook tracking:
-- Events
-- Active members
-- Volunteer and fraternal hours
-- Event costs and returns
-- Impact metrics
-
-The workbook is accessible to all members, with write permissions restricted to officers to preserve data integrity. Google Sheets was chosen for:
-1. Minimal technical skill requirements
-2. Portability
-3. Familiarity among students
+This model enables:
+- AMPM and engagement trend analysis
+- Bimodal participation detection
+- Tenure‑based continuity forecasting
+- Program‑mix evaluation
 
 ---
 
@@ -132,9 +143,9 @@ AMPM rose steadily from **4 -> 9 AMPM** (active members per month) and approachi
 
 ### 2. Engagement Distribution
 Participation is bimodal - 11 highly active members vs 10 dormant members, with few members between.
-- This distribution indicates that our council operations **rely heavily on a small, core group**. This makes it difficult to distribute workloads evenly scale operations, and ensure council continuity.
-- 10 members attended 0 events and 11 members attended 6+. 9 members fall in between these categories, skewing towards inactive (Aug 2025 - Feb 2026)
-- Members average 14 days since last event (median), implying that focusing on entirely inactive members have a greater effect on bolstering our AMPM as opposed to targeting semi-active members.
+- Council operations **rely heavily on a small, core group**. -> This makes it difficult to distribute workloads evenly scale operations, and ensure council continuity.
+- 10 members attended 0 and 11 members attended 6+ events. 9 members fall in between these categories (Aug 2025 - Feb 2026).
+- Members average **14 days since last event** (median). Focusing on dormant members will have a greater effect on bolstering our AMPM as opposed to targeting semi-active members.
 
 ### 3. Council Continuity
 **75%** of active membership is concentrated in members that are **projected to leave within the next two years**.
@@ -144,15 +155,14 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 
 ### 4. Low Overhead
 **~92% of our accumulated hours were centered around service and faith development** since the new Colombian Year began (coinciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
-- This may be a consequence of individuals having to track their hours in the first place and being motivated to contribute more time to these activities.
 - One hypothesis is that hour tracking incentivized members to log more service time than before. Tracking hours increases the visibility of efforts, especially those that would typically go unnoticed.
 - Further data collection is needed to determine whether this pattern persists across future semesters.
 
 ### 5. Engagement Breadth
 **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
-- Breadth is critical for activation, recruitment, and maintaining a high AMPM.
+- Breadth is **critical for activation**, recruitment, and maintaining a high AMPM.
 - 18 different members attended charity events vs 11 for faith events
-- 52% of all members were activated by charitable events (vs. 33% faith and 15% fraternity)
+- **52% of all members were activated by charitable events** (vs. 33% faith and 15% fraternity)
 - Most unique members for an event type were centered around charity events (15 members)
 
 ### 6. Engagement Depth
