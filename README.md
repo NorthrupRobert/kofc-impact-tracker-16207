@@ -226,23 +226,28 @@ Graphs:
 ## DETAILED RESULTS
 *Analysis conducted Feb 8, 2026*
 1. **Membership Growth:** AMPM rose steadily from 4 -> 9 AMPM (active members per month) from Oct 2024-Jan 2026.
-    - Membership growth appears to be a consequence of increased council activity and not necessarily increased event attendance. Member attendance since data began being recorded appears to average 5 members over the entire period.
+    - Membership growth is attributed to an increase of council activity and not greater event attendance overall. Members/event averages at 4 for the current Colombian year.
     - Council is approaching its goal of 10 AMPM
     - Sharp declines in active members from Jul-Oct, Dec-Jan 2025 is attributed to memberhsip residing outside of the Reno Metropolitain area during this time.
-2. **Engagement Distribution:** Participation is bimodal - 11 highly active members vs 11 dormant members, with few members between.
-    - 11 members attended 0 event and 11 members attended 6+. 8 members fall in between these categories, scewing towards inactive (Aug 2025 - Feb 2026)
+2. **Engagement Distribution:** Participation is bimodal - 11 highly active members vs 10 dormant members, with few members between.
+    - This distribution indicates that our council operations rely heavily on a small, core group. This makes continuity vulnerable.
+    - 10 members attended 0 events and 11 members attended 6+. 9 members fall in between these categories, scewing towards inactive (Aug 2025 - Feb 2026)
     - Members average 14 days since last event (median), implying that focusing on entirely inactive members have a greater effect on bulstering our AMPM as opposed to targeting semi-active members.
-3. **Member Motivations:** Member-activating events are primarily made up of chartiable works (Parish Ministry, "Moving Company", and Public Ministry), accounting for 52% of member-activating events.
-    - Retreats and parish ministry tied for the most member-activating events (at 6 activations each)
-    - The most unique members for an event type were centered around charity events (15 members)
-    - 52% of all members activated were done so by charitable events (vs. 33% faith and 15% fraternity)
-4. **Council Continuity:** 75% of active membership is concentrated in members that are projected within the next two years
+3. **Council Continuity:** 75% of active membership is concentrated in members that are projected within the next two years
+    - If new members are not activated within the next few months, AMPM could drop to 2-3 members. This is not sustainable, and the council will be disbanded within the next year.
     - 42% of active members have a tenure that will end within the year
     - 33% of active members have a tenure that will end between 1 and 2 years.
-6. **Low Overhead:** Despite members' concerns that too much of our contributed effort goes towards overhead, ~92% of our accumilated hours were centered around service and faith development since the new Colombian Year began (new leadership).
+6. **Low Overhead:** ~92% of our accumilated hours were centered around service and faith development since the new Colombian Year began (counciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
     - This may be a consequence of individuals having to track their hours in the first place and being motivated to contribute more time to these activities.
-7. despite members primarily being motivated by community events, we garnered more hours from faith development
-8. 
+    - Further data collection is needed to determine whether this pattern persists across future semesters.
+7. **Engagment Breadth:** Charity events are the council’s strongest lever for broad engagement and new member activation.
+    - 18 different members attended charity events vs 11 for faith events
+     - 52% of all members were activated by charitable events (vs. 33% faith and 15% fraternity)
+    - Most unique members for an event type were centered around charity events (15 members)
+9. **Engagement Depth** Members have the deepest engagement with faith development events.
+   - 72.6 average hours accumilated per faith event vs. (22.3 hours family, 14.5 hours life, 12.7 hours community, and 5.6 meeting)
+   - 21 charity events vs 4 faith events
+   - ~250 member hours accumilated for faith events vs ~230 hours for community events
 
 ---
 
