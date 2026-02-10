@@ -1,19 +1,16 @@
 <p align="center">
-    <img src="/assets/Knights of Columbus Logo.png" width="700">
+    <img src="/assets/Knights of Columbus Logo.png" width="500">
 </p>
 
 # Volunteer Impact and Performance Analysis
-### *Building a Data‑Driven Operating System for Knights of Columbus (KofC) Council 16207*
+### *A data‑driven evaluation of volunteer engagement, event performance, and impact — built to guide smarter planning, stronger participation, and higher‑impact service.*
 
-> **A data‑driven evaluation of volunteer engagement, event performance, and fundraising efficiency — built to guide smarter planning, stronger participation, and higher‑impact service.**
-
----
-
-## PROJECT BADGES
-![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
-![Analytics: Excel](https://img.shields.io/badge/Analytics-Excel-darkgreen)
-![Focus: Community Impact](https://img.shields.io/badge/Focus-Community%20Impact-gold)
-![Last Updated](https://img.shields.io/badge/Updated-Feb%202026-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen"></a>
+  <img src="https://img.shields.io/badge/Analytics-Excel-darkgreen"></a>
+  <img src="https://img.shields.io/badge/Focus-Community%20Impact-gold"></a>
+  <img src="https://img.shields.io/badge/Updated-Feb%202026-lightgrey"></a>
+</p>
 
 ---
 
@@ -27,7 +24,7 @@ Data Analytics | Aerospace | Community Impact
 <p align="center">
   <a href="https://linkedin.com/in/robb-northrup-463867382"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/NorthrupRobert"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:northruprobert@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:robbnorthrup@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=outlook"></a>
 </p>
 
 ---
@@ -43,7 +40,7 @@ Data Analytics | Aerospace | Community Impact
 
 ## EXECUTIVE SUMMARY
 **The Knights of Columbus is a global Catholic fraternal organization dedicated to charity, unity, and community service.**
-For over a century, the Knights of Columbus has been one of the world’s largest charitable service organizations—mobilizing millions of volunteer hours annually, distributing tens of millions of dollars in direct aid, and supporting communities through disaster relief, food security programs, refugee assistance, and local service initiatives. This global impact is powered not by large institutions, but by thousands of local councils whose effectiveness depends on how well they engage volunteers, allocate time, and prioritize high‑impact activities.
+For over a century, the Knights of Columbus has been one of the world’s largest charitable service organizations—mobilizing millions of volunteer hours annually, distributing tens of millions of dollars in direct aid, and supporting communities through disaster relief. This global impact is dependent on how well local councils engage volunteers, allocate time, and prioritize high‑impact activities.
 
 ### Problem Statement
 **Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
@@ -54,6 +51,8 @@ By analyzing event participation patterns, volunteer hours, fundraising performa
 3. Operational bottlenecks caused by turnover, inconsistent planning, or unclear expectations
 
 Using these insights, I developed a data‑driven planning framework to guide future officers in strengthening participation, continuity, and charitable impact.
+
+### Dashboards
 
 ![Engagement Dash](Dashboards/engagement_dash_oct2024-feb2026.png)
 <p align="center">Figure 1. Longterm AMPM, engagement, and activity dashboard</p>
@@ -66,6 +65,14 @@ Using these insights, I developed a data‑driven planning framework to guide fu
 
 <div style="font-size: 0.85em">
 
+### Key Findings
+- AMPM rose steadily from **4 -> 9 AMPM** (active members per month) and approaching our goal of 10, from Oct 2024-Jan 2026.
+- Participation is bimodal - 11 highly active members vs 10 dormant members, with few members between.
+- **75%** of active membership is concentrated in members that are **projected to leave within the next two years**.
+- **~92% of our accumulated hours were centered around service and faith development** since the new Colombian Year began (coinciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
+- **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
+- Members have the **deepest engagement** with **faith** development events.
+
 **Resources**
 - Click here to access the [project dashboards and data](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing).
 - Click here to access the [Performance Executive Summary](/Documentation/KofC16207_Executive_Summary.docx).
@@ -77,7 +84,6 @@ Using these insights, I developed a data‑driven planning framework to guide fu
 
 ## BACKGROUND
 Since my membership began in The Knights of Columbus Council 16207, I've noticed a series of persistent challenges that have limited our growth, member retention, and measurable community impact:
-- Low attendance at council events
 - Largely inactive members
 - Overemphasis on meetings and administrative activities
 - Highly motivated members pursuing projects individually rather than collaboratively
@@ -114,12 +120,6 @@ The workbook is accessible to all members, with write permissions restricted to 
 1. Minimal technical skill requirements
 2. Portability
 3. Familiarity among students
-
-### Member‑Level Analysis
-Because participant names were stored as comma‑separated lists, a Google Apps Script was introduced to automatically:
-- Parse participant lists
-- Generate a normalized member‑level table
-- Keep analytics synced with event data
 
 ---
 
