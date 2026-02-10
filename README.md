@@ -1,9 +1,6 @@
 # Volunteer Performance and Fundraising Analysis
 ### *Building a Data‑Driven Operating System for Knights of Columbus (KofC) Council 16207*
 
-> **A data‑driven evaluation of volunteer engagement, event performance, and fundraising efficiency — built to guide smarter planning, stronger pa# Volunteer Performance and Fundraising Analysis
-### *Building a Data‑Driven Operating System for Knights of Columbus (KofC) Council 16207*
-
 > **A data‑driven evaluation of volunteer engagement, event performance, and fundraising efficiency — built to guide smarter planning, stronger participation, and higher‑impact service.**
 
 ---
@@ -63,10 +60,10 @@ Using these insights, I developed a data‑driven planning framework for officer
 - Real‑world operational impact
 - Leadership and systems thinking
 
-[Engagement Dash](Dashboards/engagement_dash_oct2024-feb2026.png)
-[Retention Dash](Dashboards/retention_dash_feb2026.png)
-[Program Mix Dash 1](Dashboards/program_dash_1_jul2025-feb2026.png)
-[Program Mix Dash 2](Dashboards/program_dash_2_jul2025-feb2026.png)
+![Engagement Dash](Dashboards/engagement_dash_oct2024-feb2026.png)
+![Retention Dash](Dashboards/retention_dash_feb2026.png)
+![Program Mix Dash 1](Dashboards/program_dash_1_jul2025-feb2026.png)
+![Program Mix Dash 2](Dashboards/program_dash_2_jul2025-feb2026.png)
 
 - Click here to access the [project dashboards and data](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing).
 
@@ -116,7 +113,7 @@ Because participant names were stored as comma‑separated lists, a Google Apps 
 - Generate a normalized member‑level table
 - Keep analytics synced with event data
 
-[ERD](/assets/ERD.png)
+![ERD](/assets/ERD.png)
 
 ---
 
