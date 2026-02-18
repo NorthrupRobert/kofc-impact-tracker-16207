@@ -85,10 +85,9 @@ Through this data framework, I created three dashboards on the front-end to crea
 3. **Plan for Continuity** by targeting inactive members (see above) to mitigate the projected 2-year membership cliff.
 4. **Program for Breadth + Depth** by maintaining a 3:1 charity to faith event ratio to help foster active council commitment and achieve 45% 30-day retention.
 
-For further detail on recommendations, please see [recommended actions](#recommended-actions).
+For further detail, please see [Recommended Actions](#recommended-actions).
 
-**Resources**
-- Click here to access the Dashboards and Project Data (as [Sheets Master Doc](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing) or [Local Excel Doc](KofC16207_Operations_Dashboard_Anonymized.xlsx)).
+Click here to access the Dashboards and Project Data (as [Sheets Master Doc](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing) or [Local Excel Doc](KofC16207_Operations_Dashboard_Anonymized.xlsx)).
 
 </div>
 
