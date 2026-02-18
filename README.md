@@ -149,8 +149,9 @@ This model enables:
 ---
 
 ## INSIGHTS DEEP DIVE
-*Analysis conducted Feb 8, 2026*
+*Analysis conducted Feb 8, 2026 for new Colombian Year (Jul 2025 - Feb 2026)*
 ### 1. Membership Growth
+*Note: AMPM is shown across the full historical record to contextualize current-year trends.*
 <p align="center" style="font-size: 0.85em">
   <img src="/assets/ampm%20on%20the%20rise.png" width="500">
   <br>
@@ -186,9 +187,9 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 - 33% of active members have a tenure that will end between 1 and 2 years.
 
 ### 4. Low Overhead
-| <img src="/assets/service%20hours%20far%20outpace%20overhead.png" width="400"> | <img src="/assets/overhead load.png" width="400"> |
+| <img src="/assets/service%20hours%20far%20outpace%20overhead.png" width="500"> | <img src="/assets/overhead load.png" width="500"> |
 |:---------------------------------------:|:---------------------------------------:|
-| <p align="center" style="font-size: 0.85em">Figure 8. Radial diagram of hours accumulated by pillar.</p>                        | <p align="center" style="font-size: 0.85em">Figure 9. Overhead since July 2025 (new Colombian year)</p>                        |
+| <p align="center" style="font-size: 0.85em">Figure 8. Radial diagram of hours accumulated by pillar</p>                        | <p align="center" style="font-size: 0.85em">Figure 9. Overhead since July 2025</p>                        |
 
 **~92% of our accumulated hours were centered around service and faith development** since the new Colombian Year began (coinciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
 - One hypothesis is that hour tracking incentivized members to log more service time than before. Tracking hours increases the visibility of efforts, especially those that would typically go unnoticed.
@@ -198,7 +199,7 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 <p align="center" style="font-size: 0.85em">
   <img src="/assets/engagement%20breadth.png" width="500">
   <br>
-  Figure 10. AMPM trends upward
+  Figure 10. Unique member activation by event type
 </p>
 
 **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
@@ -208,9 +209,9 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 - Most unique members for an event type were centered around charity events (15 members)
 
 ### 6. Engagement Depth
-| <img src="/assets/engagement%20depth.png" width="400"> | <img src="/assets/high%20return%20faith%20events.png" width="400"> |
+| <img src="/assets/engagement%20depth.png" width="500"> | <img src="/assets/high%20return%20faith%20events.png" width="500"> |
 |:---------------------------------------:|:---------------------------------------:|
-| <p align="center" style="font-size: 0.85em">Figure 11. Faith events far outpace other event types in engagement depth. </p>                        | <p align="center" style="font-size: 0.85em">Figure 12. Minimal faith events for hours acquired</p>                        |
+| <p align="center" style="font-size: 0.85em">Figure 11. Engagement depth by event type </p>                        | <p align="center" style="font-size: 0.85em">Figure 12. Event type count</p>                        |
 
 Members have the **deepest engagement** with **faith** development events.
 - Faith events deepen member commitment, while charity events broaden participation.
