@@ -58,8 +58,12 @@ Using these insights, I developed a data‑driven planning framework to guide fu
 ![Engagement Dash](_Dashboards/engagement_dash_oct2024-feb2026.png)
 <p align="center" style="font-size: 0.85em">Figure 1. Longterm AMPM, engagement, and activity dashboard</p>
 
+---
+
 ![Retention Dash](_Dashboards/retention_dash_feb2026.png)
 <p align="center" style="font-size: 0.85em">Figure 2. Council continuity and member retention dashboard</p>
+
+---
 
 ![Program Mix Dash](_Dashboards/program_dash_jul2025-feb2026.png)
 <p align="center" style="font-size: 0.85em">Figure 3. Programming evaluation dashboard</p>
