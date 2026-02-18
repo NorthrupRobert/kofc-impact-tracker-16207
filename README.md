@@ -43,7 +43,7 @@ Data Analytics | Aerospace | Community Impact
 For over a century, the Knights of Columbus has been one of the world’s largest charitable service organizations—mobilizing millions of volunteer hours annually, distributing tens of millions of dollars in direct aid, and supporting communities through disaster relief. This global impact is dependent on how well local councils engage volunteers, allocate time, and prioritize high‑impact activities.
 
 ### Problem Statement
-**Council 16207 has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
+**Council 16207 in Reno, Nevada has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
 
 ### Project Aim
 By analyzing event participation patterns, volunteer hours, fundraising performance, and engagement distribution across the semester, this project identifies which activities deliver the strongest charitable return per hour invested. The analysis highlights:
@@ -88,7 +88,7 @@ Using these insights, I developed a data‑driven planning framework to guide fu
 ---
 
 ## BACKGROUND
-Since my membership began in The Knights of Columbus Council 16207, I've noticed a series of persistent challenges that have limited our growth, member retention, and measurable community impact:
+Since my membership began in The Knights of Columbus Council 16207 in Reno, Nevada, I've noticed a series of persistent challenges that have limited our growth, member retention, and measurable community impact:
 - Largely inactive members
 - Overemphasis on meetings and administrative activities
 - Highly motivated members pursuing projects individually rather than collaboratively
