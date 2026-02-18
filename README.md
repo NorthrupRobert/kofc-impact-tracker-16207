@@ -190,18 +190,18 @@ Members have the **deepest engagement** with **faith** development events.
 ## RECOMMENDED ACTIONS
 *As of Feb 8, 2026*
 ### 1. Expand on Service Programming (Breadth Driver)
-    a. Add **1-2 more service events** every month to activate more members and **increase AMPM by 10-15%**.
-    b. Service events accounted for the most member activations and attracted the most unique members.
+a. Add **1-2 more service events** every month to activate more members and **increase AMPM by 10-15%**.
+b. Service events accounted for the most member activations and attracted the most unique members.
 
 ### 2. Target Dormant and Inactivated Members
-    a. **Activate 1** dormant or inactivated **member per month** through service opportunities.
-    b. Incorporate a **buddy system** to pair officers with a target member.
-    c. Only 25% of our council is comprised of members with a 3-4 year expected tenure. This is devastating for long-term council continuity.
-    d. Targeting these members would not only ensure the continuity of our council into the coming 2-3 years, but also give greater experience to the future leaders of our organization, and ensure the strength of our order longterm.
+a. **Activate 1** dormant or inactivated **member per month** through service opportunities.
+b. Incorporate a **buddy system** to pair officers with a target member.
+c. Only 25% of our council is comprised of members with a 3-4 year expected tenure. This is devastating for long-term council continuity.
+d. Targeting these members would not only ensure the continuity of our council into the coming 2-3 years, but also give greater experience to the future leaders of our organization, and ensure the strength of our order longterm.
 
 ### 3. Plan for Continuity
-    a. Target inactive members (see above) to mitigate the projected **2-year membership cliff**.
-    b. Reintroduce the "**Knights of the Round Table**" training where new members and officers are properly on-boarded on their duties and given a path to success in their role.
+a. Target inactive members (see above) to mitigate the projected **2-year membership cliff**.
+b. Reintroduce the "**Knights of the Round Table**" training where new members and officers are properly on-boarded on their duties and given a path to success in their role.
 
 ### 4. Program for Breadth + Depth
-    a. Maintain a **3:1 charity to faith event ratio** to help foster active council commitment and achieve **45% 30-day retention**.
+a. Maintain a **3:1 charity to faith event ratio** to help foster active council commitment and achieve **45% 30-day retention**.
