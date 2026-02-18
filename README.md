@@ -71,7 +71,7 @@ Using these insights, I developed a data‑driven planning framework to guide fu
 <div style="font-size: 0.85em">
 
 ### Key Findings
-- AMPM rose steadily from **4 -> 9 AMPM** (active members per month) over period.
+- Active Members per Month (AMPM) rose steadily from **4 -> 9 AMPM** Oct 2024 - Jan 2026.
 - Participation is polarized - cohorts of highly active and dormant members.
 - **75%** of active membership is concentrated in members that are **projected to leave within the next two years**.
 - **~93% of hours accumilated were service or faith-based, with only ~7% considered overhead.**.
