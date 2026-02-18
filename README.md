@@ -19,7 +19,7 @@
 
 Data Analytics | Aerospace | Community Impact
 
-**Date** Jan 23 - Feb 10, 2026
+Jan 23 - Feb 10, 2026
 
 <p align="center">
   <a href="https://linkedin.com/in/robb-northrup-463867382"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -79,15 +79,17 @@ Through this data framework, I created three dashboards on the front-end to crea
 5. **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
 6. Members have the **deepest engagement** with **faith** development events.
 
+For further details, please see [Insights Deep Dive](#insights-deep-dive).
+
 ### Recommendations
 1. **Expand on Service Programming** (Breadth Driver) by adding 1-2 more service events every month to activate more members and increase AMPM by 10-15%.
 2. **Target Dormant and Inactivated Members** in activating 1 dormant or inactivated member per month through service opportunities.
 3. **Plan for Continuity** by targeting inactive members (see above) to mitigate the projected 2-year membership cliff.
 4. **Program for Breadth + Depth** by maintaining a 3:1 charity to faith event ratio to help foster active council commitment and achieve 45% 30-day retention.
 
-For further detail, please see [Recommended Actions](#recommended-actions).
+For further details, please see [Recommended Actions](#recommended-actions).
 
-Click here to access the Dashboards and Project Data (as [Sheets Master Doc](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing) or [Local Excel Doc](KofC16207_Operations_Dashboard_Anonymized.xlsx)).
+**Click here to access the Dashboards and Project Data (as [Sheets Master Doc](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing) or [Local Excel Doc](KofC16207_Operations_Dashboard_Anonymized.xlsx)).**
 
 </div>
 
@@ -149,28 +151,58 @@ This model enables:
 ## INSIGHTS DEEP DIVE
 *Analysis conducted Feb 8, 2026*
 ### 1. Membership Growth
+<p align="center" style="font-size: 0.85em">
+  <img src="/assets/ampm%20on%20the%20rise.png" width="300">
+  <br>
+  Figure 5. AMPM trends upward
+</p>
+
 AMPM rose steadily from **4 -> 9 AMPM** (active members per month) and approaching our goal of 10, from Oct 2024-Jan 2026.
 - Membership growth is attributed to an increase of council activity and not greater event attendance overall. Members/event averages at 4 for the current Colombian year.
 - Sharp declines in active members from Jul-Oct, Dec-Jan 2025 is attributed to membership residing outside of the Reno Metropolitan area during this time.
 
 ### 2. Engagement Distribution
+<p align="center" style="font-size: 0.85em">
+  <img src="/assets/bimodal%20distribution.png" width="300">
+  <br>
+  Figure 6. AMPM trends upward
+</p>
+
 Participation is bimodal - 11 highly active members vs 10 dormant members, with few members between.
 - Council operations **rely heavily on a small, core group**. -> This makes it difficult to distribute workloads evenly scale operations, and ensure council continuity.
-- 10 members attended 0 and 11 members attended 6+ events. 9 members fall in between these categories (Aug 2025 - Feb 2026).
+- 10 members attended 0 and 11 members attended 6+ events. 9 members fall in between these categories (Jul 2025 - Feb 2026).
 - Members average **14 days since last event** (median). Focusing on dormant members will have a greater effect on bolstering our AMPM as opposed to targeting semi-active members.
 
 ### 3. Council Continuity
+<p align="center" style="font-size: 0.85em">
+  <img src="/assets/75%20gone%20in%202%20years.png" width="300">
+  <br>
+  Figure 7. AMPM trends upward
+</p>
+
 **75%** of active membership is concentrated in members that are **projected to leave within the next two years**.
 - If new members are not activated within the next few months, AMPM could drop to 2-3 members. This trajectory places the council at high risk of operational collapse within the next year.
 - 42% of active members have a tenure that will end within the year
 - 33% of active members have a tenure that will end between 1 and 2 years.
 
 ### 4. Low Overhead
+<p align="center" style="font-size: 0.85em">
+  <img src="/assets/service%20hours%20far%20outpace%20overhead.png" width="300">
+  <br>
+  Figure 8. AMPM trends upward
+</p>
+
 **~92% of our accumulated hours were centered around service and faith development** since the new Colombian Year began (coinciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
 - One hypothesis is that hour tracking incentivized members to log more service time than before. Tracking hours increases the visibility of efforts, especially those that would typically go unnoticed.
 - Further data collection is needed to determine whether this pattern persists across future semesters.
 
 ### 5. Engagement Breadth
+<p align="center" style="font-size: 0.85em">
+  <img src="/assets/engagement%20breadth.png" width="300">
+  <br>
+  Figure 9. AMPM trends upward
+</p>
+
 **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
 - Breadth is **critical for activation**, recruitment, and maintaining a high AMPM.
 - 18 different members attended charity events vs 11 for faith events
@@ -178,6 +210,17 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 - Most unique members for an event type were centered around charity events (15 members)
 
 ### 6. Engagement Depth
+<p align="center">
+  <figure style="display:inline-block; margin: 0 10px;">
+    <img src="/assets/engagement%20depth.png" width="260">
+    <figcaption style="font-size:0.85em;">Figure 1. Caption here</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin: 0 10px;">
+    <img src="/assets/high%20return%20faith%20events.png" width="260">
+    <figcaption style="font-size:0.85em;">Figure 2. Caption here</figcaption>
+  </figure>
+</p>
+
 Members have the **deepest engagement** with **faith** development events.
 - Faith events deepen member commitment, while charity events broaden participation.
 - **72.6 average hours accumulated per faith event** vs. (22.3 hours family, 14.5 hours life, 12.7 hours community, and 5.6 meeting)
