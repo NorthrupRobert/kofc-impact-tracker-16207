@@ -6,7 +6,7 @@
 ### *A data‑driven evaluation of volunteer engagement, event performance, and impact — built to guide smarter planning, stronger participation, and higher‑impact service.*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen"></a>
+  <img src="https://img.shields.io/badge/Status-Complete-Black"></a>
   <img src="https://img.shields.io/badge/Analytics-Excel-darkgreen"></a>
   <img src="https://img.shields.io/badge/Focus-Community%20Impact-gold"></a>
   <img src="https://img.shields.io/badge/Updated-Feb%202026-lightgrey"></a>
