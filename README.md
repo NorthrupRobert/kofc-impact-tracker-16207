@@ -152,9 +152,9 @@ This model enables:
 *Analysis conducted Feb 8, 2026*
 ### 1. Membership Growth
 <p align="center" style="font-size: 0.85em">
-  <img src="/assets/ampm%20on%20the%20rise.png" width="300">
+  <img src="/assets/ampm%20on%20the%20rise.png" width="400">
   <br>
-  Figure 5. AMPM trends upward
+  Figure 5. AMPM over time
 </p>
 
 AMPM rose steadily from **4 -> 9 AMPM** (active members per month) and approaching our goal of 10, from Oct 2024-Jan 2026.
@@ -163,9 +163,9 @@ AMPM rose steadily from **4 -> 9 AMPM** (active members per month) and approachi
 
 ### 2. Engagement Distribution
 <p align="center" style="font-size: 0.85em">
-  <img src="/assets/bimodal%20distribution.png" width="300">
+  <img src="/assets/bimodal%20distribution.png" width="500">
   <br>
-  Figure 6. AMPM trends upward
+  Figure 6. Bimodal distribution of membership activity
 </p>
 
 Participation is bimodal - 11 highly active members vs 10 dormant members, with few members between.
@@ -175,9 +175,9 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 
 ### 3. Council Continuity
 <p align="center" style="font-size: 0.85em">
-  <img src="/assets/75%20gone%20in%202%20years.png" width="300">
+  <img src="/assets/75%20gone%20in%202%20years.png" width="600">
   <br>
-  Figure 7. AMPM trends upward
+  Figure 7. Recent membership activity by tenure
 </p>
 
 **75%** of active membership is concentrated in members that are **projected to leave within the next two years**.
@@ -187,9 +187,14 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 
 ### 4. Low Overhead
 <p align="center" style="font-size: 0.85em">
-  <img src="/assets/service%20hours%20far%20outpace%20overhead.png" width="300">
+  <img src="/assets/service%20hours%20far%20outpace%20overhead.png" width="700">
   <br>
   Figure 8. AMPM trends upward
+</p>
+<p align="center" style="font-size: 0.85em">
+  <img src="/assets/overhead load.png" width="700">
+  <br>
+  Figure 9. AMPM trends upward
 </p>
 
 **~92% of our accumulated hours were centered around service and faith development** since the new Colombian Year began (coinciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
@@ -210,16 +215,9 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 - Most unique members for an event type were centered around charity events (15 members)
 
 ### 6. Engagement Depth
-<p align="center">
-  <figure style="display:inline-block; margin: 0 10px;">
-    <img src="/assets/engagement%20depth.png" width="260">
-    <figcaption style="font-size:0.85em;">Figure 1. Caption here</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin: 0 10px;">
-    <img src="/assets/high%20return%20faith%20events.png" width="260">
-    <figcaption style="font-size:0.85em;">Figure 2. Caption here</figcaption>
-  </figure>
-</p>
+| <img src="/assets/engagement%20depth.png" width="400"> | <img src="/assets/high%20return%20faith%20events.png" width="400"> |
+|:---------------------------------------:|:---------------------------------------:|
+| <p align="center" style="font-size: 0.85em">Figure 4. Entity‑relationship diagram illustrating the structure of the Events, Members, Officers, and Participation tables.</p>                        | <p align="center" style="font-size: 0.85em">Figure 4. Entity‑relationship diagram illustrating the structure of the Events, Members, Officers, and Participation tables.</p>                        |
 
 Members have the **deepest engagement** with **faith** development events.
 - Faith events deepen member commitment, while charity events broaden participation.
