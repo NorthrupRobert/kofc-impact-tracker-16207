@@ -152,7 +152,7 @@ This model enables:
 *Analysis conducted Feb 8, 2026*
 ### 1. Membership Growth
 <p align="center" style="font-size: 0.85em">
-  <img src="/assets/ampm%20on%20the%20rise.png" width="400">
+  <img src="/assets/ampm%20on%20the%20rise.png" width="500">
   <br>
   Figure 5. AMPM over time
 </p>
@@ -175,7 +175,7 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 
 ### 3. Council Continuity
 <p align="center" style="font-size: 0.85em">
-  <img src="/assets/75%20gone%20in%202%20years.png" width="600">
+  <img src="/assets/75%20gone%20in%202%20years.png" width="500">
   <br>
   Figure 7. Recent membership activity by tenure
 </p>
@@ -186,16 +186,9 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 - 33% of active members have a tenure that will end between 1 and 2 years.
 
 ### 4. Low Overhead
-<p align="center" style="font-size: 0.85em">
-  <img src="/assets/service%20hours%20far%20outpace%20overhead.png" width="700">
-  <br>
-  Figure 8. AMPM trends upward
-</p>
-<p align="center" style="font-size: 0.85em">
-  <img src="/assets/overhead load.png" width="700">
-  <br>
-  Figure 9. AMPM trends upward
-</p>
+| <img src="/assets/service%20hours%20far%20outpace%20overhead.png" width="400"> | <img src="/assets/overhead load.png" width="400"> |
+|:---------------------------------------:|:---------------------------------------:|
+| <p align="center" style="font-size: 0.85em">Figure 8. Radial diagram of hours accumulated by pillar.</p>                        | <p align="center" style="font-size: 0.85em">Figure 9. Overhead since July 2025 (new Colombian year)</p>                        |
 
 **~92% of our accumulated hours were centered around service and faith development** since the new Colombian Year began (coinciding with new leadership). This challenges members' concerns that too much of our contributed effort goes towards overhead.
 - One hypothesis is that hour tracking incentivized members to log more service time than before. Tracking hours increases the visibility of efforts, especially those that would typically go unnoticed.
@@ -203,9 +196,9 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 
 ### 5. Engagement Breadth
 <p align="center" style="font-size: 0.85em">
-  <img src="/assets/engagement%20breadth.png" width="300">
+  <img src="/assets/engagement%20breadth.png" width="500">
   <br>
-  Figure 9. AMPM trends upward
+  Figure 10. AMPM trends upward
 </p>
 
 **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
@@ -217,7 +210,7 @@ Participation is bimodal - 11 highly active members vs 10 dormant members, with 
 ### 6. Engagement Depth
 | <img src="/assets/engagement%20depth.png" width="400"> | <img src="/assets/high%20return%20faith%20events.png" width="400"> |
 |:---------------------------------------:|:---------------------------------------:|
-| <p align="center" style="font-size: 0.85em">Figure 4. Entity‑relationship diagram illustrating the structure of the Events, Members, Officers, and Participation tables.</p>                        | <p align="center" style="font-size: 0.85em">Figure 4. Entity‑relationship diagram illustrating the structure of the Events, Members, Officers, and Participation tables.</p>                        |
+| <p align="center" style="font-size: 0.85em">Figure 11. Faith events far outpace other event types in engagement depth. </p>                        | <p align="center" style="font-size: 0.85em">Figure 12. Minimal faith events for hours acquired</p>                        |
 
 Members have the **deepest engagement** with **faith** development events.
 - Faith events deepen member commitment, while charity events broaden participation.
