@@ -56,7 +56,7 @@ Using these insights, I developed a data‑driven planning framework to guide fu
 ### Dashboards
 
 ![Engagement Dash](_Dashboards/engagement_dash_oct2024-feb2026.png)
-<p align="center" style="font-size: 0.85em">Figure 1. Longterm AMPM, engagement, and activity dashboard</p>
+<p align="center" style="font-size: 0.85em">Figure 1. Long-term Active Members Per Month (AMPM), engagement, and activity dashboard</p>
 
 ---
 
