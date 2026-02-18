@@ -45,7 +45,7 @@ For over a century, the Knights of Columbus has been one of the world’s larges
 ### Problem Statement
 **Council 16207 in Reno, Nevada has no consistent fundraising strategy or performance metrics, limiting its ability to support charitable initiatives despite strong member engagement and volunteer hours.**
 
-### Project Aim
+### Objective
 By analyzing event participation patterns, volunteer hours, fundraising performance, and engagement distribution across the semester, this project identifies which activities deliver the strongest charitable return per hour invested. The analysis highlights:
 1. High‑engagement events that consistently attract volunteers
 2. Programs with declining participation that may require redesign or retirement
@@ -54,6 +54,7 @@ By analyzing event participation patterns, volunteer hours, fundraising performa
 Using these insights, I developed a data‑driven planning framework to guide future officers in strengthening participation, continuity, and charitable impact.
 
 ### Dashboards
+Through this data framework, I created three dashboards on the front-end to create a quick interface for council officers to reference.
 
 ![Engagement Dash](_Dashboards/engagement_dash_oct2024-feb2026.png)
 <p align="center" style="font-size: 0.85em">Figure 1. Long-term Active Members Per Month (AMPM), engagement, and activity dashboard</p>
@@ -71,17 +72,23 @@ Using these insights, I developed a data‑driven planning framework to guide fu
 <div style="font-size: 0.85em">
 
 ### Key Findings
-- Active Members per Month (AMPM) rose steadily from **4 -> 9 AMPM** Oct 2024 - Jan 2026.
-- Participation is polarized - cohorts of highly active and dormant members.
-- **75%** of active membership is concentrated in members that are **projected to leave within the next two years**.
-- **~93% of hours accumilated were service or faith-based, with only ~7% considered overhead.**.
-- **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
-- Members have the **deepest engagement** with **faith** development events.
+1. Active Members per Month (AMPM) rose steadily from **4 -> 9 AMPM** Oct 2024 - Jan 2026.
+2. Participation is polarized - cohorts of highly active and dormant members.
+3. **75%** of active membership is concentrated in members that are **projected to leave within the next two years**.
+4. **~93% of hours accumulated were service based, with only ~7% considered administrative.**
+5. **Charity** events are the council’s strongest lever for **broad engagement** and new member activation.
+6. Members have the **deepest engagement** with **faith** development events.
+
+### Recommendations
+1. **Expand on Service Programming** (Breadth Driver) by adding 1-2 more service events every month to activate more members and increase AMPM by 10-15%.
+2. **Target Dormant and Inactivated Members** in activating 1 dormant or inactivated member per month through service opportunities.
+3. **Plan for Continuity** by targeting inactive members (see above) to mitigate the projected 2-year membership cliff.
+4. **Program for Breadth + Depth** by maintaining a 3:1 charity to faith event ratio to help foster active council commitment and achieve 45% 30-day retention.
+
+For further detail on recommendations, please see [recommended actions](#recommended-actions).
 
 **Resources**
 - Click here to access the Dashboards and Project Data (as [Sheets Master Doc](https://docs.google.com/spreadsheets/d/1LQVH9NrwlRhR1RyaSbRnYVoQc2Cqf7UhCpwxnpQ6i5s/edit?usp=sharing) or [Local Excel Doc](KofC16207_Operations_Dashboard_Anonymized.xlsx)).
-- Click here to access the [Performance Executive Summary](/Documentation/KofC16207_Executive_Summary.docx).
-- Click here to access the [Impact Analysis Slide Deck](/Documentation/KofC16207_Impact_Analysis_Presentation.pptx).
 
 </div>
 
@@ -183,18 +190,18 @@ Members have the **deepest engagement** with **faith** development events.
 ## RECOMMENDED ACTIONS
 *As of Feb 8, 2026*
 ### 1. Expand on Service Programming (Breadth Driver)
-- Add **1-2 more service events** every month to activate more members and **increase AMPM by 10-15%**.
-- Service events accounted for the most member activations and attracted the most unique members.
+    a. Add **1-2 more service events** every month to activate more members and **increase AMPM by 10-15%**.
+    b. Service events accounted for the most member activations and attracted the most unique members.
 
 ### 2. Target Dormant and Inactivated Members
-- **Activate 1** dormant or inactivated **member per month** through service opportunities.
-- Incorporate a **buddy system** to pair officers with a target member.
-- Only 25% of our council is comprised of members with a 3-4 year expected tenure. This is devastating for long-term council continuity.
-- Targeting these members would not only ensure the continuity of our council into the coming 2-3 years, but also give greater experience to the future leaders of our organization, and ensure the strength of our order longterm.
+    a. **Activate 1** dormant or inactivated **member per month** through service opportunities.
+    b. Incorporate a **buddy system** to pair officers with a target member.
+    c. Only 25% of our council is comprised of members with a 3-4 year expected tenure. This is devastating for long-term council continuity.
+    d. Targeting these members would not only ensure the continuity of our council into the coming 2-3 years, but also give greater experience to the future leaders of our organization, and ensure the strength of our order longterm.
 
-### 3. Continuity Planning
-- Target inactive members (see above) to mitigate the projected **2-year membership cliff**.
-- Reintroduce the "**Knights of the Round Table**" training where new members and officers are properly on-boarded on their duties and given a path to success in their role.
+### 3. Plan for Continuity
+    a. Target inactive members (see above) to mitigate the projected **2-year membership cliff**.
+    b. Reintroduce the "**Knights of the Round Table**" training where new members and officers are properly on-boarded on their duties and given a path to success in their role.
 
-### 4. Programming for Breadth + Depth
-- Maintain a **3:1 charity to faith event ratio** to help foster active council commitment and achieve **45% 30-day retention**.
+### 4. Program for Breadth + Depth
+    a. Maintain a **3:1 charity to faith event ratio** to help foster active council commitment and achieve **45% 30-day retention**.
